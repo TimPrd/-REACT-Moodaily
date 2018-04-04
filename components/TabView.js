@@ -10,7 +10,7 @@ import { TabViewAnimated, SceneMap } from 'react-native-tab-view';
 //import { Constants } from 'expo';
 import {StatusBar} from 'react-native';
 import ListScreen from './ListScreen'
-//import AreaChartExample from './AreaScreen'
+import SecondPane from './SecondPane'
 
 
 const SecondRoute = () => (
@@ -56,7 +56,7 @@ export default class TabViewExample extends React.Component {
 
   _renderScene = SceneMap({
     first: ListScreen,
-    second: SecondRoute,
+    second: SecondPane,
   });
 
   render() {

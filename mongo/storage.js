@@ -11,6 +11,22 @@ export default class Database{
     return this.db;
   }
 
+  _deleteAll(){
+    
+    this.db.remove({ emoji: { $regex: /.*/} }, { multi: true }, function(err, res) {
+
+      Alert.alert(
+        'REMOVE',
+        'Votre base est vide :\'( ',
+        [
+          {text: 'OK', onPress: () => console.log('OK Pressed')},
+        ],
+        { cancelable: false }
+      )
+    })
+  }
+
+
   async _getAllByCounter() {
     console.log('FETCH BY COUNTER');
     return await this.db.findAsync({})
