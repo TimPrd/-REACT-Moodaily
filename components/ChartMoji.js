@@ -13,12 +13,9 @@ class ChartMoji extends React.Component {
       labs: props.labels,
     };
   }
-
-
+  
   render() {
     console.log( this.props.length != 0)
-    
-    
     return (
       <View style={{ }}>
         {this.state.labs.map((emot, index) => (

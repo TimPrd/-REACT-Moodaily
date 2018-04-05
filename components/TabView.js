@@ -7,24 +7,17 @@ import {
   Text
 } from 'react-native';
 import { TabViewAnimated, SceneMap } from 'react-native-tab-view';
-//import { Constants } from 'expo';
-import {StatusBar} from 'react-native';
+import { StatusBar } from 'react-native';
 import ListScreen from './ListScreen'
 import SecondPane from './SecondPane'
 
-
-const SecondRoute = () => (
-  <View style={[styles.container, { backgroundColor: 'deeppink' }]}>
-    <Text>Created by Timothé PARDIEU et Gabin FIQUET</Text>
-  </View>
-);
 
 export default class TabViewExample extends React.Component {
   state = {
     index: 0,
     routes: [
-      { key: 'first', title: 'First' },
-      { key: 'second', title: 'Second' },
+      { key: 'first', title: 'Home' },
+      { key: 'second', title: 'Info' },
     ],
   };
 

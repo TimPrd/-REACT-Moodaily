@@ -42,33 +42,12 @@ class ListViewDemo extends React.Component {
     };
   }
 
-  async _getAllByCounter() {
-    console.log('FETCH BY COUNTER');
-    //var e = await this.db.findAsync({}).map(a => a.emoji);
-    //console.log('DATA => ' + e)
-    return [];
-  }
-
   _pressRow(z) {
-    var date = new Date();
-    //this.fck();
-
-    /*async () => {
-      e = await that.db.findAsync({})
-      console.log(e)
-      await that.db.insertAsync({ name: 'Maggie' })
-    }*/
-    /*
-    this.db.find({}, function(err, docs) {
-      console.log(docs);
-    });*/
-    //this.db._getAllByCounter();
-    //console.log(e);
+    var date = new Date(); 
     this.db._insertOrUpdate({ emoji: z, date });
     this.setState({
       flag:true
     })
-    /**/
   }
 
   setSearchText = e => {
@@ -88,9 +67,6 @@ class ListViewDemo extends React.Component {
 
   filterNotes(searchText, notes) {
     let text = searchText.toLowerCase();
-    /*return notes.filter(function (el) {
-      return (el.includes(text)); 
-    })*/
     var ar = [];
     notes.filter(function(element) {
       element.aliases.forEach(function(alias) {
@@ -99,18 +75,10 @@ class ListViewDemo extends React.Component {
       });
     });
     return ar;
-
-    /*return filter(notes, (n) => {
-      let note = n.body.toLowerCase();
-      console.log(note);
-      return note.search(text) !== -1;
-    });*/
   }
 
   async componentWillMount() {
     var data = await this.db._getAllByCounter();
-
-    //console.log(data);
     console.log(data.map(a => a.counter));
     if (data.length != 0) {
       this.setState({
@@ -118,16 +86,9 @@ class ListViewDemo extends React.Component {
         labs: data.map(a => a.emoji),
       });
     }
-
   }
 
   getChart() {
-    //console.log(this.state.res)
-    /*var l = await this.db._getAllByCounter();
-    console.log('ici');*/
-    
-    console.log("oc")
-    console.log(this.state.res)
     if (this.state.res !== undefined)
       return <ChartMoji labels={this.state.labs} counts={this.state.res}></ChartMoji>
   }
