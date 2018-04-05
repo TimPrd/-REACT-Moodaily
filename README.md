@@ -1,6 +1,7 @@
-# -REACT-Moodaily
+# [REACT]Moodaily
 
 ***Demo  : (alpha version, project has been updated since)***
+
 [![Demo alpha](https://j.gifs.com/YvnD0O.gif)]
 
 This project is designed with the React Native course in university UPMC (2018)
