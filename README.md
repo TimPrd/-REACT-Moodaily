@@ -8,11 +8,13 @@ This project is designed with the React Native course in university UPMC (2018)
 
 The goal was to create an app with react. 
 
-I chose to create a tracker of mood.
+We chose to create a tracker of mood.
 You can search or just scroll the list to get the emot which matches your mood.
 Each emot that has been chosen is saved in a local *MongoDB* database. (No need to be online :raised_hands: )
 
 Then you can preview a chart containing all your scores. (how much emot of that mood you have been..)
+An icon has been made:
+![icon](https://github.com/TimPrd/-REACT-Moodaily/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
 # Built mainly with :
 
