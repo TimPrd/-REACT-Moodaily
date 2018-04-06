@@ -1,0 +1,646 @@
+[
+  {
+    "emoji": "😃"
+  , "description": "smiling face with open mouth"
+  , "category": "People"
+  , "aliases": [      
+      "joyeux"
+    , "joyeuse"
+    , "heureux"
+    , "heureuse"
+    , "de bonne humeur"
+    ]
+  , "tags": [
+      "happy"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😇"
+  , "description": "smiling face with halo"
+  , "category": "People"
+  , "aliases": [
+      "innocent"
+    , "innocente"
+    , "gentil"
+    , "gentille"
+    ]
+  , "tags": [
+      "angel"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🙂"
+  , "description": "slightly smiling face"
+  , "category": "People"
+  , "aliases": [
+      "content"
+    , "contente"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "7.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "😌"
+  , "description": "relieved face"
+  , "category": "People"
+  , "aliases": [
+      "soulagé"
+    , "apaisé"
+    , "détendu"
+    , "soulagée"
+    , "apaisée"
+    , "détendue"
+    ]
+  , "tags": [
+      "whew"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😍"
+  , "description": "smiling face with heart-eyes"
+  , "category": "People"
+  , "aliases": [
+      "amoureux"
+    , "amoureuse"
+    ]
+  , "tags": [
+      "love"
+    , "crush"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😜"
+  , "description": "face with stuck-out tongue & winking eye"
+  , "category": "People"
+  , "aliases": [
+      "farceur"
+    , "blagueur"
+    , "taquin"
+    , "farceuse"
+    , "blagueuse"
+    , "taquine"
+    ]
+  , "tags": [
+      "prank"
+    , "silly"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🤑"
+  , "description": "money-mouth face"
+  , "category": "People"
+  , "aliases": [
+      "cupide"
+    , "rapiat"
+    , "avare"
+    ]
+  , "tags": [
+      "rich"
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🤗"
+  , "description": "hugging face"
+  , "category": "People"
+  , "aliases": [
+      "câlin"
+    , "câline"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🤓"
+  , "description": "nerd face"
+  , "category": "People"
+  , "aliases": [
+      "geek"
+    , "intéligent"
+    , "intéligente"
+    ]
+  , "tags": [
+      "geek"
+    , "glasses"
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "😎"
+  , "description": "smiling face with sunglasses"
+  , "category": "People"
+  , "aliases": [
+      "cool"
+    , "OKLM"
+    , "Thug"
+    ]
+  , "tags": [
+      "cool"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🤡"
+  , "description": "clown face"
+  , "category": "People"
+  , "aliases": [
+      "clown"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "😏"
+  , "description": "smirking face"
+  , "category": "People"
+  , "aliases": [
+      "suffisant"
+    , "arrogant"
+    , "malin"
+    , "suffisante"
+    , "arrogante"
+    , "maline"
+    ]
+  , "tags": [
+      "smug"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😞"
+  , "description": "disappointed face"
+  , "category": "People"
+  , "aliases": [
+      "disappointé"
+    , "déçu"
+    , "disappointée"
+    , "déçue"
+    ]
+  , "tags": [
+      "sad"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😟"
+  , "description": "worried face"
+  , "category": "People"
+  , "aliases": [
+      "inqiet"
+    , "nerveux"
+    , "préocupé"
+    , "anxieux"
+    , "inqiete"
+    , "nerveuse"
+    , "préocupée"
+    , "anxieuse"
+    ]
+  , "tags": [
+      "nervous"
+    ]
+  , "unicode_version": "6.1"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😕"
+  , "description": "confused face"
+  , "category": "People"
+  , "aliases": [
+      "confus"
+    , "embrouillé"
+    , "troublé"
+    , "confuse"
+    , "embrouillée"
+    , "troublée"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.1"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🙁"
+  , "description": "slightly frowning face"
+  , "category": "People"
+  , "aliases": [
+      "mauvaise"
+    , "mauvais"
+    , "de mauvaise humeur"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "7.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "😩"
+  , "description": "weary face"
+  , "category": "People"
+  , "aliases": [
+      "fatigué"
+    , "épuisé"
+    , "fatiguée"
+    , "épuisée"
+    ]
+  , "tags": [
+      "tired"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😤"
+  , "description": "face with steam from nose"
+  , "category": "People"
+  , "aliases": [
+      "agacé"
+    , "irrité"
+    , "agacée"
+    , "irritée"
+    ]
+  , "tags": [
+      "smug"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😠"
+  , "description": "angry face"
+  , "category": "People"
+  , "aliases": [
+      "en colère"
+    , "faché"
+    , "fachée"
+    ]
+  , "tags": [
+      "mad"
+    , "annoyed"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😡"
+  , "description": "pouting face"
+  , "category": "People"
+  , "aliases": [
+      "furieux"
+    , "enragé"
+    , "furieuse"
+    , "enragée"
+
+    ]
+  , "tags": [
+      "angry"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😐"
+  , "description": "neutral face"
+  , "category": "People"
+  , "aliases": [
+      "neutre"
+    ]
+  , "tags": [
+      "meh"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+,  {
+    "emoji": "😧"
+  , "description": "anguished face"
+  , "category": "People"
+  , "aliases": [
+      "étourdi"
+    , "abasourdi"
+    ,  "médusé"
+    , "assommé"
+    , "étourdie"
+    , "abasourdie"
+    , "médusée"
+    , "assommée"
+    ]
+  , "tags": [
+      "stunned"
+    ]
+  , "unicode_version": "6.1"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😲"
+  , "description": "astonished face"
+  , "category": "People"
+  , "aliases": [
+      "surpris"
+    , "étonné"
+    , "stupéfait"
+    , "surprise"
+    , "étonnée"
+    , "stupéfaite"
+    ]
+  , "tags": [
+      "amazed"
+    , "gasp"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😱"
+  , "description": "face screaming in fear"
+  , "category": "People"
+  , "aliases": [
+      "choqué"
+    , "effrayé"
+    , "choquée"
+    , "effrayée"
+    ]
+  , "tags": [
+      "horror"
+    , "shocked"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😨"
+  , "description": "fearful face"
+  , "category": "People"
+  , "aliases": [
+      "craintif"
+    , "peureux"
+    , "craintive"
+    , "peureuse"
+    ]
+  , "tags": [
+      "scared"
+    , "shocked"
+    , "oops"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "😢"
+  , "description": "crying face"
+  , "category": "People"
+  , "aliases": [
+      "triste"
+    , "attristé"
+    , "attristée"
+    ]
+  , "tags": [
+      "sad"
+    , "tear"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🤤"
+  , "description": "drooling face"
+  , "category": "People"
+  , "aliases": [
+      "rêveur"
+    , "rêveuse"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "😴"
+  , "description": "sleeping face"
+  , "category": "People"
+  , "aliases": [
+      "endormi"
+    , "endormie"
+    ]
+  , "tags": [
+      "zzz"
+    ]
+  , "unicode_version": "6.1"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🤔"
+  , "description": "thinking face"
+  , "category": "People"
+  , "aliases": [
+      "pensif"
+    , "philosophe"
+    , "téoricien"
+    , "pensive"
+    , "téoricienne"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "🤥"
+  , "description": "lying face"
+  , "category": "People"
+  , "aliases": [
+      "menteur"
+    , "menteuse"
+    ]
+  , "tags": [
+      "liar"
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "🤢"
+  , "description": "nauseated face"
+  , "category": "People"
+  , "aliases": [
+      "nauséeux"
+    , "nauséeuse"
+    ]
+  , "tags": [
+      "sick"
+    , "barf"
+    , "disgusted"
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "🤧"
+  , "description": "sneezing face"
+  , "category": "People"
+  , "aliases": [
+      "malade"
+    ]
+  , "tags": [
+      "achoo"
+    , "sick"
+    ]
+  , "unicode_version": "9.0"
+  , "ios_version": "10.2"
+  }
+, {
+    "emoji": "😷"
+  , "description": "face with medical mask"
+  , "category": "People"
+  , "aliases": [
+      "souffrant"
+    , "souffrante"
+    ]
+  , "tags": [
+      "sick"
+    , "ill"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🤒"
+  , "description": "face with thermometer"
+  , "category": "People"
+  , "aliases": [
+      "fiévreux"
+    , "fiévreuse"
+    ]
+  , "tags": [
+      "sick"
+    ]
+  , "unicode_version": "8.0"
+  , "ios_version": "9.1"
+  }
+, {
+    "emoji": "😈"
+  , "description": "smiling face with horns"
+  , "category": "People"
+  , "aliases": [
+      "diabolique"
+    , "méchant"
+    , "sournois"
+    , "méchante"
+    , "sournoise"
+    ]
+  , "tags": [
+      "devil"
+    , "evil"
+    , "horns"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "💀"
+  , "description": "skull"
+  , "category": "People"
+  , "aliases": [
+      "mort"
+    , "morte"
+    ]
+  , "tags": [
+      "dead"
+    , "danger"
+    , "poison"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🍆"
+  , "description": "eggplant"
+  , "category": "Foods"
+  , "aliases": [
+      "pervers"
+    ]
+  , "tags": [
+      "aubergine"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🎮"
+  , "description": "video game"
+  , "category": "Activity"
+  , "aliases": [
+      "joueur"
+      "joueuse"
+    ]
+  , "tags": [
+      "play"
+    , "controller"
+    , "console"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🍑"
+  , "description": "peach"
+  , "category": "Foods"
+  , "aliases": [
+      "perverse"
+    ]
+  , "tags": [
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🏃‍♀"
+  , "description": "woman running"
+  , "category": "People"
+  , "aliases": [
+      "sportive"
+    ]
+  , "tags": [
+      "exercise"
+    , "workout"
+    , "marathon"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "10.0"
+  }
+, {
+    "emoji": "🏃"
+  , "description": "person running"
+  , "category": "People"
+  , "aliases": [
+      "sportif"
+    ]
+  , "tags": [
+      "exercise"
+    , "workout"
+    , "marathon"
+    ]
+  , "unicode_version": "6.0"
+  , "ios_version": "6.0"
+  }
+,
