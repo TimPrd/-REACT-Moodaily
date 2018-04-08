@@ -18,6 +18,16 @@ An icon has been made:
 
 ![icon](https://github.com/TimPrd/-REACT-Moodaily/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
+# Test 
+
+Test with Jest have been implementing. 
+
+To run the tests : 
+
+``` 
+npm test
+```
+
 # Installing
 
 In order to install the app : 
