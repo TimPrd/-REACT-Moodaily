@@ -18,6 +18,20 @@ An icon has been made:
 
 ![icon](https://github.com/TimPrd/-REACT-Moodaily/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
+# Installing
+
+In order to install the app : 
+```
+git clone 
+
+npm install 
+
+(optional) react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+
+(optional) react-native link 
+
+react-native run-android ..
+```
 # Built mainly with :
 
 - React Native
