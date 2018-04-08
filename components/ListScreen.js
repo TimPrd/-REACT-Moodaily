@@ -7,7 +7,8 @@ import {
   Text,
   TextInput,
   Switch,
-  ScrollView
+  ScrollView,
+  Share
 } from "react-native";
 import Database from "./../mongo/storage";
 import { LIST_EMOJI } from "./../data/data-list";
@@ -54,6 +55,20 @@ class ListViewDemo extends React.Component {
     this.setState({
       flag: true
     });
+
+    Share.share(
+      {
+        message: emojiSelected[0].emoji,
+        url: "",
+        title: "ShareMood"
+      },
+      {
+        // Android only:
+        dialogTitle: "Share your mood",
+        // iOS only:
+        excludedActivityTypes: ["com.apple.UIKit.activity.PostToTwitter"]
+      }
+    );
   }
 
   /**
