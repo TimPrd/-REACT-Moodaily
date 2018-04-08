@@ -30,7 +30,7 @@ npm install
 
 (optional) react-native link 
 
-react-native run 
+react-native run-android ..
 ```
 # Built mainly with :
 
