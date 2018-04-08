@@ -11,7 +11,10 @@ import { StatusBar } from 'react-native';
 import ListScreen from './ListScreen'
 import SecondPane from './SecondPane'
 
-
+/** 
+ * This component enables to have two tabs in the main view 
+ * Each tab is defined in the state.routes
+ */
 export default class TabViewExample extends React.Component {
   state = {
     index: 0,
