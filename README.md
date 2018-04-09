@@ -28,7 +28,7 @@ To run the tests :
 npm test
 ```
 
-# Installing
+# Install
 
 In order to install the app : 
 ```
